@@ -157,4 +157,4 @@
 
 ---
 
-> 📎 This README is designed for developers and AI assistants like Cursor to fully understand the project goals and features.
+> 📎 This README is designed for developers 
